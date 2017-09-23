@@ -2,7 +2,7 @@
     "id": "85b5d4e5-24c5-4d8b-9926-3730af0494d4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Player_Walk_Down",
+    "name": "obj_Player",
     "eventList": [
         {
             "id": "ef9ba6b1-5a12-4ece-8332-f5a02320b54e",
@@ -23,16 +23,6 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "85b5d4e5-24c5-4d8b-9926-3730af0494d4"
-        },
-        {
-            "id": "88828474-9629-47a4-a851-7316f1f91193",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "4ac17959-cfc2-463e-9b20-411803536a2e",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "85b5d4e5-24c5-4d8b-9926-3730af0494d4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -42,11 +32,11 @@
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
     "physicsGroup": 0,
-    "physicsKinematic": true,
+    "physicsKinematic": false,
     "physicsLinearDamping": 0.1,
-    "physicsObject": true,
+    "physicsObject": false,
     "physicsRestitution": 0.1,
-    "physicsSensor": true,
+    "physicsSensor": false,
     "physicsShape": 1,
     "physicsShapePoints": [
         {

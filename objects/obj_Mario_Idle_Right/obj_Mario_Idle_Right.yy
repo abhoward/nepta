@@ -5,13 +5,13 @@
     "name": "obj_Mario_Idle_Right",
     "eventList": [
         {
-            "id": "d3958bac-0e8b-4ebc-b686-c5671c500001",
+            "id": "c246a2b1-8d02-40e4-a4f9-513a1e789cb6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "collisionObjectId": "85b5d4e5-24c5-4d8b-9926-3730af0494d4",
             "enumb": 0,
-            "eventtype": 0,
+            "eventtype": 4,
             "m_owner": "4ac17959-cfc2-463e-9b20-411803536a2e"
         }
     ],
@@ -22,9 +22,9 @@
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
     "physicsGroup": 0,
-    "physicsKinematic": true,
+    "physicsKinematic": false,
     "physicsLinearDamping": 0.1,
-    "physicsObject": true,
+    "physicsObject": false,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
