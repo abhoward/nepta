@@ -1,5 +1,4 @@
 image_speed = 0;
-phy_fixed_rotation = true; // fixes rotation of object
 
 walk_speed = 4;
 h_speed = 0;
@@ -10,3 +9,7 @@ xaxis = 0;
 yaxis = 0;
 
 state = scr_move_state;
+
+scr_player_stats();
+
+steps = 1000;

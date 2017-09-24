@@ -4,6 +4,7 @@ move_left = keyboard_check(ord("A"))
 move_right = keyboard_check(ord("D"))
 move_up = keyboard_check(ord("W"))
 move_down = keyboard_check(ord("S"))
+pause_key = keyboard_check(vk_escape);
 
 // Get the axis
 xaxis = move_right - move_left;
@@ -15,4 +16,5 @@ if(gamepad_is_connected(0))
 	gamepad_set_axis_deadzone(0, 0.35);
 	xaxis = gamepad_axis_value(0, gp_axislh);
 	yaxis = gamepad_axis_value(0, gp_axislv);
+	pause_key = gamepad_button_check(0, gp_start);
 }
