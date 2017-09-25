@@ -2,7 +2,7 @@
     "id": "d2d986c6-dea2-46ec-b915-0c001b282981",
     "modelName": "GMProject",
     "mvc": "1.0",
-    "IsDnDProject": true,
+    "IsDnDProject": false,
     "configs": [
         
     ],
@@ -55,6 +55,25 @@
                 ],
                 "resourcePath": "views\/01eb128d-9239-49e4-bbc3-e597e8ac36cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0a3277f3-df68-4188-b3e3-76eb3e6700f0",
+            "Value": {
+                "id": "07af6e18-5f72-4dc2-9d62-d5538056c5ac",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_TextBox\/spr_TextBox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -704,6 +723,25 @@
             }
         },
         {
+            "Key": "865b90b1-cc22-491c-acf1-9f09b951b38d",
+            "Value": {
+                "id": "211abe9e-12ae-4c97-81f7-f86b714eebc4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/fnt_Text\/fnt_Text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "866afba9-04a5-4a5c-b047-6bab96bffaf2",
             "Value": {
                 "id": "ed65f6ad-171e-4229-9b6d-35685815d5f5",
@@ -1251,6 +1289,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_Tree\/obj_Tree.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e0dd142d-f623-4e3a-94c3-0b88a6de1bf1",
+            "Value": {
+                "id": "910e2844-475d-4e96-ae38-0094a944f7f1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_TextBox\/obj_TextBox.yy",
                 "resourceType": "GMObject"
             }
         },
