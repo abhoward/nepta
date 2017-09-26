@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "1f8655dd-f7ff-4551-b54f-3a50efa0d89a",
+            "Value": {
+                "id": "a16eaba7-bf5b-470b-a980-eeb81f312efb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_Blue_Mario\/obj_Blue_Mario.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f8fc3a4-87a8-4440-a0f5-a30012cdbd03",
             "Value": {
                 "id": "48b3d9af-307b-45ea-91cf-9cc3ce0bed7e",
@@ -283,6 +302,44 @@
                 ],
                 "resourcePath": "scripts\/scr_DisplayConvoText\/scr_DisplayConvoText.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2dae76df-9494-4b41-b314-a52f374ebd76",
+            "Value": {
+                "id": "ae4f6895-9b67-47f3-a350-af09d124d433",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_Blue_Mario\/spr_Blue_Mario.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2f2ed80f-a4ce-4829-baa4-c66e908ce419",
+            "Value": {
+                "id": "0f412531-c310-475c-9c53-6e67020e5589",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_Parent_Dialogue\/obj_Parent_Dialogue.yy",
+                "resourceType": "GMObject"
             }
         },
         {

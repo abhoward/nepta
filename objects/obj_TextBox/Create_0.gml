@@ -7,8 +7,10 @@ page = 0;
 x_buffer = 10;
 y_buffer = 10;
 
-box_width = sprite_get_width(spr_TextBox) - (2*x_buffer);
-stringHeight = string(text);
+box_height = sprite_get_height(spr_TextBox)
+box_width = sprite_get_width(spr_TextBox);
+stringHeight = string_height(text);
 creator = noone;
 char_count = 0;
 name = noone;
+name_color = noone;

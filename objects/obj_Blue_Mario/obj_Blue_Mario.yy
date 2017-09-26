@@ -1,18 +1,18 @@
 {
-    "id": "4ac17959-cfc2-463e-9b20-411803536a2e",
+    "id": "1f8655dd-f7ff-4551-b54f-3a50efa0d89a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Mario_Idle_Right",
+    "name": "obj_Blue_Mario",
     "eventList": [
         {
-            "id": "51610c35-d544-4ed8-92c1-d97156ed53ca",
+            "id": "011fc7bb-c15b-4675-856d-27ea7e22d1c7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4ac17959-cfc2-463e-9b20-411803536a2e"
+            "m_owner": "1f8655dd-f7ff-4551-b54f-3a50efa0d89a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -30,28 +30,28 @@
     "physicsShape": 1,
     "physicsShapePoints": [
         {
-            "id": "55e4abd5-994b-4c43-a5b9-43a87893023c",
+            "id": "a2ebc67b-db6a-419d-8823-b559a7b5b0c3",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 2,
             "y": 14
         },
         {
-            "id": "7eac30d1-91d3-40b1-b631-9cfa296279e1",
+            "id": "1ed68e36-6df9-4f62-857d-d88298d3eb9c",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 14,
             "y": 14
         },
         {
-            "id": "09d533f7-d2e5-466b-a769-fbef4d433ada",
+            "id": "e904c60d-bd05-4ebc-a38a-530068bfd4a5",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 14,
             "y": 28
         },
         {
-            "id": "bd3615ae-bd21-4584-a87e-5fc5f0b514a1",
+            "id": "40c3c011-d27c-46cf-bf33-0d55fb69ad37",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 2,
@@ -60,6 +60,6 @@
     ],
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "e608c701-ecfa-46ad-8b64-14617128f72c",
+    "spriteId": "2dae76df-9494-4b41-b314-a52f374ebd76",
     "visible": true
 }

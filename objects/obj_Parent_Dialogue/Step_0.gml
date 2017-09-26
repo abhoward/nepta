@@ -8,6 +8,7 @@ if(place_meeting(x, y, obj_Player)) {
 			myTextBox.text = myText;
 			myTextBox.creator = self;
 			myTextBox.name = myName;
+			myTextBox.name_color = myNameColor;
 		}
 	}
 } else {
