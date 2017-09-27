@@ -18,5 +18,5 @@ if(room != target)
 	}
 }
 
-draw_rectangle(0, 0, view_wport*2, view_hport*2, false);
+draw_rectangle(0, 0, display_get_width(), display_get_height(), false);
 draw_set_alpha(1);

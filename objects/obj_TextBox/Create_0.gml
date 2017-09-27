@@ -7,8 +7,9 @@ page = 0;
 x_buffer = 10;
 y_buffer = 10;
 
-box_height = display_get_height() / 10;
-box_width = display_get_width();
+global.screen_width = display_get_width();
+global.screen_height = display_get_height();
+global.screen_height_box = display_get_height() / 10;
 stringHeight = string_height(text);
 creator = noone;
 char_count = 0;

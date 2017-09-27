@@ -5,16 +5,6 @@
     "name": "obj_TextBox",
     "eventList": [
         {
-            "id": "4d0e59de-586d-4771-8ffa-f9e88d2c775f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "e0dd142d-f623-4e3a-94c3-0b88a6de1bf1"
-        },
-        {
             "id": "b06fe4ef-b94e-41f1-8e53-f1b34f7bf865",
             "modelName": "GMEvent",
             "mvc": "1.0",
